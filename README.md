@@ -1,4 +1,4 @@
-# FinalProject_Self_Assessmeent
+# FinalProject_Self_Assessment
 
 It almost feels unreal that the Data Analytics bootcamp has come to an end. Someone who started this journey from zero technical background and skills, completing this bootcamp has been one of my biggest achievements in life so far. I could not have done this without the help and support of the teaching staff as well as I would like to give a special mention to my mom, my husband and my friends who pushed and believed in me even when I wanted to give up.
 
